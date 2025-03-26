@@ -1,2 +1,5 @@
 .direnv
+.venv
 flake.lock
+
+ComfyUI
