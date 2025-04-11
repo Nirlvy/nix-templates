@@ -10,9 +10,8 @@
           path = ./comfyui;
           description = "comfyui env";
           welcomeText = ''
-            - run `direnv allow`
-            - or run `nix develop`
-            - final run `comfyui`
+            - run `direnv allow` or `nix develop`
+            - then run `comfyui`
           '';
         };
 
